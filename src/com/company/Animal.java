@@ -2,7 +2,7 @@ package com.company;
 
 public class Animal {
     public int legs;
-    public string size;
+    public String size;
     public String name;
     public boolean isFixed;
 
